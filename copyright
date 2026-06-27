@@ -1,0 +1,22 @@
+Copyright (c) 2026. All rights reserved.
+
+This repository and its contents, including but not limited to source code,
+model implementations, experiment scripts, datasets, and configuration files,
+are the copyrighted work of the author unless otherwise stated.
+
+No license is granted by default. You may view the repository for academic
+review, paper-verification, and reproducibility inspection only. Without prior
+written permission from the copyright holder, you may not copy, redistribute,
+publish, sublicense, sell, rent, commercialize, train derivative products from,
+incorporate into another software system, or otherwise use any substantial part
+of this repository.
+
+Citation of the associated paper does not grant a software license. Any use of
+the code, data, models, or experimental materials beyond review and inspection
+requires a separate written agreement from the copyright holder.
+
+Third-party components, if included, remain governed by their original licenses
+and copyright notices. Nothing in this notice removes or limits the rights and
+obligations attached to those third-party components.
+
+For permission requests, contact the repository owner.
